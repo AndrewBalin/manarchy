@@ -1,0 +1,7 @@
+name: MetroAnarchy
+version: '${project.version}'
+main: metroanarchyserver.anarchy.metroanarchy
+api-version: 1.18
+authors: [ AndrewBalin ]
+commands:
+  login: {}
